@@ -6,7 +6,7 @@ data-driven insights into patient admissions, medical conditions, billing trends
 enhance care quality, and support strategic decision-making through an interactive Power BI dashboard.
 
 **🛠️ APPROACH:**
-_	Established connection to the healthcare dataset from the designated source.
+*	Established connection to the healthcare dataset from the designated source.
 _	Performed data cleaning and transformation using Power Query to ensure data consistency and accuracy.
 _	Designed an efficient data model, including defining relationships and creating DAX measures for key metrics.
 _	Developed an interactive Power BI report with dynamic visuals, filters, and KPIs to support data-driven decision-making.
